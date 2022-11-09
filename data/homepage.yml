@@ -1,10 +1,10 @@
 head:
-  title: BIDS Connectivity Project
+  title: Data Governance
 
 showcase:
   enable: true
 
-  title: BIDS Connectivity Project
+  title: Data Governance
   subtitle: Developing a practical standard to report brain connectivity experiments.
   description: An [NIH BRAIN Initiaitive](https://reporter.nih.gov/search/wY9-gfr9wkuqjnR-lFfGwA/project-details/10253558) sponsored project to advance data sharing and informatics
   image:
